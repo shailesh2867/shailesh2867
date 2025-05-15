@@ -8,6 +8,6 @@ Welcome to my GitHub profile....
 
 
 I like to watch movies and listen to music.
-My favorite sport is cricket, I love watching cricket matches.
+My favorite sport is __cricket__, I love watching cricket matches.
 I know the following programming languages Python and HTML
 and my favorite language currently is Python because it is Popular and Dynamic.
